@@ -1,6 +1,4 @@
-# Progetto_SII
-Analisi sentiment dei tweet riguardanti le elezioni americane 2020
+# SENTIMENT ANALYSIS
+The repository contains the project for Intelligent Systems for the Internet carried out by Chiara Romanelli, Federico Pasqui, and Milena Senna, students of Computer Engineering at the University of RomaTre.
 
-Il repository contiene il progetto di Sistemi Intelligenti per Internet svolto da Chiara Romanelli, Federico Pasqui e Milena Senna, studenti di Ingegneria Informatica presso l'Università degli Studi di RomaTre. 
-
-Il lavoro da noi svolto prevedeva l’analisi dei tweet relativi alle elezioni americane, prendendo in considerazione gli anni duemiladiciannove e duemilaventuno. Lo scopo della nostra analisi è stato studiare la polarizzazione dei tweet attraverso l’analisi di diversi topics. In particolare abbiamo effettuato uno studio del sentiment per mostrare le preferenze dei cittadini nei confronti dei due candidati: Joe Biden e Donald Trump. Un ulteriore topic preso in considerazione è stata la localizzazione degli utenti dei relativi tweet, così da poter osservare l’andamento del sentiment su base geografica. 
+Our work involved analyzing tweets related to the U.S. elections, focusing on the years 2019 and 2021. The purpose of our analysis was to study the polarization of tweets through the examination of various topics. Specifically, we conducted a sentiment analysis to show citizens' preferences for the two candidates: Joe Biden and Donald Trump. Another topic we considered was the localization of the users of the relevant tweets, allowing us to observe sentiment trends on a geographical basis. 
